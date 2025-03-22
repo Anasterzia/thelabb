@@ -1,6 +1,6 @@
 
 /* Add font files for Cormorant Garamond */
-@font-face {
+@font-face { 
   font-family: 'Cormorant Garamond';
   src: url('fonts/cormorant-garamond.woff2') format('woff2'),
        url('fonts/cormorant-garamond.woff') format('woff');
